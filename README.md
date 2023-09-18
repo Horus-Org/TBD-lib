@@ -2,6 +2,9 @@
 
 Library for TBD
 
+**Contributions are welcome**
+
+
 ## What is TBD?
 
 The web democratized the exchange of information, but it's missing a key layer: identity. We struggle to secure personal data with hundreds of accounts and passwords we can’t remember. On the web today, identity and personal data have become the property of third parties.
