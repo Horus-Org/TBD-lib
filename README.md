@@ -23,5 +23,6 @@ and data storage to your applications. It lets devs focus on creating delightful
 
 - [ ] DWN
 - [ ] ID
+- [ ] APIs
 - [ ] SDK
 - [ ] Alpha Software
